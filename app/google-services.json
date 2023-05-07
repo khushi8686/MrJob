@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "730967017637",
+    "project_id": "mrjob-28ebe",
+    "storage_bucket": "mrjob-28ebe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730967017637:android:b5ad48d4f592623bde654c",
+        "android_client_info": {
+          "package_name": "com.example.mrjob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730967017637-p5b65vt9uljpmh8sah0u4vnpmp6nquli.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQoc-AJw_qg2Pg8Wqav51QngLmwKX8AZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730967017637-p5b65vt9uljpmh8sah0u4vnpmp6nquli.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
